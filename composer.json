@@ -1,0 +1,13 @@
+{
+    "name": "headless-wordpress-boilerplate",
+    "description": "",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "require": {
+
+    }
+}

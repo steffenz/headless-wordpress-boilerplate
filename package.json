@@ -1,0 +1,12 @@
+{
+  "name": "headless-wp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-config": ""
+  },
+  "author": "Steffen Martinsen <steffen@steffenmedia.no> (http://www.steffen.im)",
+  "license": "MIT"
+}
